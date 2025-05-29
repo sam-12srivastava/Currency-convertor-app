@@ -33,7 +33,7 @@ urrency-converter/
 └── README.md → Documentation
 
 1. **Clone** the repository or download the files  
-
+   https://github.com/sam-12srivastava/Currency-convertor-app.git
 
 2. **Open** `index.html` in your browser
 
